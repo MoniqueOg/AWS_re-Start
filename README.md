@@ -13,4 +13,4 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.-->
 
 Happy coding!
 
-<sub> Monique Ogunkeyede| AWS re/Start <sub>
+<sub> Monique Ogunkeyede | AWS re/Start <sub>
