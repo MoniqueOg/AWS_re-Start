@@ -4,7 +4,7 @@ import re
 
 result = ""
 
-with open("preproinsulin-seq-clean.txt",'r') as f:
+with open("preproinsulin-seq.txt",'r') as f:
     text = f.read()
     nospace = re.sub("\s", "", text)
     noOr = re.sub("ORIGIN", "", nospace)
